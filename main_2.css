@@ -97,8 +97,11 @@ html{
 }
 .intro div h1{
 	font-size: 60px;
+	color:#660b1d;
 }
-
+.intro div{
+	color:#660b1d;
+}
 .surprise-tab h1 {
  text-decoration: none;
  background:linear-gradient(to right,#8a6351,#e8e65d);
