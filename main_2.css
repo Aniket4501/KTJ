@@ -4,7 +4,7 @@
 	font-family: 'Shadows Into Light', cursive;
 }
 body{
-	background:url('../img_folder/macro-shot-of-wooden-planks-326333.jpg');
+	background:#ada3a5;
 }
 html{
 	scroll-behavior: smooth;
@@ -87,7 +87,7 @@ html{
 
 .intro div 
 {
-	color: #fff;	
+	color: #590b19;	
 	padding: 10px 20px;
 	margin-top: 0px;
 	margin-bottom: 5px;
